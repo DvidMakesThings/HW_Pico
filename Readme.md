@@ -2,8 +2,10 @@
 
 RePico is a custom-designed, feature-enhanced Raspberry Pi Pico-compatible board built for serious embedded developers. It keeps full compatibility with the RP2040 ecosystem while upgrading key components for cleaner analog performance, improved configurability, and professional-grade layout.
 
-![RePico Top](RePico_Top.png)
-![RePico Bottom](RePico_Bottom.png)
+<p align="center">
+    <img src="images/RePico_Top.png" alt="RePico Top" width="45%" style="display:inline-block; margin-right:2%;" />
+    <img src="images/RePico_Bottom.png" alt="RePico Bottom" width="45%" style="display:inline-block;" />
+</p>
 
 ---
 
